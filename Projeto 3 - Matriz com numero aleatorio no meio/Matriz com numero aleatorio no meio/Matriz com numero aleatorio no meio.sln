@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz com numero aleatorio no meio", "Matriz com numero aleatorio no meio.csproj", "{EDE1421B-E017-49ED-A675-BFF451414705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDE1421B-E017-49ED-A675-BFF451414705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE1421B-E017-49ED-A675-BFF451414705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE1421B-E017-49ED-A675-BFF451414705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE1421B-E017-49ED-A675-BFF451414705}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {704D4B82-F090-4705-B46B-172D1399F6B0}
+	EndGlobalSection
+EndGlobal

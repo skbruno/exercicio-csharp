@@ -1,0 +1,13 @@
+C:\Users\Bruno\Documents\Projeto antigo\Projeto 1 - Matriz triangular inferior\Matriz triangular inferior\bin\Debug\netcoreapp3.1\Matriz triangular inferior.exe
+C:\Users\Bruno\Documents\Projeto antigo\Projeto 1 - Matriz triangular inferior\Matriz triangular inferior\bin\Debug\netcoreapp3.1\Matriz triangular inferior.deps.json
+C:\Users\Bruno\Documents\Projeto antigo\Projeto 1 - Matriz triangular inferior\Matriz triangular inferior\bin\Debug\netcoreapp3.1\Matriz triangular inferior.runtimeconfig.json
+C:\Users\Bruno\Documents\Projeto antigo\Projeto 1 - Matriz triangular inferior\Matriz triangular inferior\bin\Debug\netcoreapp3.1\Matriz triangular inferior.runtimeconfig.dev.json
+C:\Users\Bruno\Documents\Projeto antigo\Projeto 1 - Matriz triangular inferior\Matriz triangular inferior\bin\Debug\netcoreapp3.1\Matriz triangular inferior.dll
+C:\Users\Bruno\Documents\Projeto antigo\Projeto 1 - Matriz triangular inferior\Matriz triangular inferior\bin\Debug\netcoreapp3.1\Matriz triangular inferior.pdb
+C:\Users\Bruno\Documents\Projeto antigo\Projeto 1 - Matriz triangular inferior\Matriz triangular inferior\obj\Debug\netcoreapp3.1\Matriz triangular inferior.csprojAssemblyReference.cache
+C:\Users\Bruno\Documents\Projeto antigo\Projeto 1 - Matriz triangular inferior\Matriz triangular inferior\obj\Debug\netcoreapp3.1\Matriz triangular inferior.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Projeto antigo\Projeto 1 - Matriz triangular inferior\Matriz triangular inferior\obj\Debug\netcoreapp3.1\Matriz triangular inferior.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Projeto antigo\Projeto 1 - Matriz triangular inferior\Matriz triangular inferior\obj\Debug\netcoreapp3.1\Matriz triangular inferior.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Projeto antigo\Projeto 1 - Matriz triangular inferior\Matriz triangular inferior\obj\Debug\netcoreapp3.1\Matriz triangular inferior.dll
+C:\Users\Bruno\Documents\Projeto antigo\Projeto 1 - Matriz triangular inferior\Matriz triangular inferior\obj\Debug\netcoreapp3.1\Matriz triangular inferior.pdb
+C:\Users\Bruno\Documents\Projeto antigo\Projeto 1 - Matriz triangular inferior\Matriz triangular inferior\obj\Debug\netcoreapp3.1\Matriz triangular inferior.genruntimeconfig.cache
